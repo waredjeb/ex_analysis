@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tmva_train.C": "cpp",
+        "tmva_read.C": "cpp"
+    }
+}
