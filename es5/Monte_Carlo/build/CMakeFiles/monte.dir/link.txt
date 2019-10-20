@@ -1,0 +1,2 @@
+/bin/ar qc libmonte.a  CMakeFiles/monte.dir/monte.cpp.o
+/bin/ranlib libmonte.a

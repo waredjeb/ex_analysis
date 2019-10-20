@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/prng.cpp
+prng.h
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/prng.h
+climits
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/prng.h
+

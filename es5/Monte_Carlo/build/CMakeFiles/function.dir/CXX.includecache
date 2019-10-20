@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/function.cpp
+function.h
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/function.h
+iostream
+-
+stdlib.h
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/stdlib.h
+cmath
+-
+
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/function.h
+vector
+-
+

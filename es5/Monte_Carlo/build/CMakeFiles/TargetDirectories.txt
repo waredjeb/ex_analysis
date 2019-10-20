@@ -1,0 +1,8 @@
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/edit_cache.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/rebuild_cache.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/xorshiro.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/main.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/prng.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/function.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/one.dir
+/home/wahid/Downloads/Telegram Desktop/es5_2/Monte_Carlo/build/CMakeFiles/monte.dir
