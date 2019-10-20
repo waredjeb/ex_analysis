@@ -1,0 +1,6 @@
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/CMakeFiles/rebuild_cache.dir
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/CMakeFiles/edit_cache.dir
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/new/CMakeFiles/main.dir
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/new/CMakeFiles/rebuild_cache.dir
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/new/CMakeFiles/edit_cache.dir
+/Users/boldrinicoder/Desktop/try_c/es3/new_es3/build/new/CMakeFiles/all_struct.dir
